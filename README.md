@@ -1,15 +1,13 @@
 # CS7314-spring24
 
-https://s2.smu.edu/~tian/class/7314.23f/
+https://s2.smu.edu/~tian/class/7314.24s/
 
 ### Assignments
 
-- [x] [Homework #1](https://s2.smu.edu/~tian/class/7314.23f/hw1.html). Due: 01/26/23
-- [x] [Homework #2](https://s2.smu.edu/~tian/class/7314.23f/hw2.html). Due: 9/26/23
-- [x] [Homework #3](https://s2.smu.edu/~tian/class/7314.23f/hw3.html). Due: 10/24/23
-
-- [x] [Homework #4](https://s2.smu.edu/~tian/class/7314.23f/hw4.html). Due: 11/7/23
-
+- [x] Homework #4. Due: 3/27/2024.
+- [x] Homework #3. Due: 3/19/2024.
+- [x] Homework #2. Due: 2/12/2024.
+- [x] Homework #1. Due: 1/30/2024.
 
 
 ### Project
@@ -43,7 +41,7 @@ https://s2.smu.edu/~tian/class/7314.23f/
 - [x] Lecture 8 02/12/24
 - [x] Lecture 9 02/14/24 Exam
 - [x] Lecture 10 02/26/24
-- [x] Lecture 1102/28/24
+- [x] Lecture 11 02/28/24
 - [x] Lecture 12 03/04/24
 - [x] Lecture 13 03/06/24
 - [x] Lecture 14 03/18/24
